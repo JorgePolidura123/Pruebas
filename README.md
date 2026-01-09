@@ -1,6 +1,7 @@
 # Pruebas
 
+<details>
 
->Prueba
->texto
+
    
+</details>
